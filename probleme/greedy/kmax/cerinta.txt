@@ -1,0 +1,9 @@
+Se dă un șir cu n elemente, numere întregi, și un număr natural k ≤ n. Calculați cea mai mare sumă care poate fi obținută schimbând semnul a exact k elemente aflate pe poziții distincte din șirul dat.
+
+Intrare
+5
+5 -2 -3 4 1
+1
+
+Iesire
+11
